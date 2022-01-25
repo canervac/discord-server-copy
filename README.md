@@ -25,7 +25,7 @@ python main.py => Terminal kısmına yazılacaktır.
 
 ![Adsız](https://media.discordapp.net/attachments/923986783543378011/935473328708280370/unknown.png)
 
-**`-` Ardından kendime bir prefix belirliyoruz.**
+**`-` Ardından kendimize bir prefix belirliyoruz.**
 
 ![Adsız](https://media.discordapp.net/attachments/923986783543378011/935473636314341386/unknown.png)
 
