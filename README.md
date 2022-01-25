@@ -1,7 +1,7 @@
 
 # Discord Server Copy
 
-Umarım işinize yarar. **[Herhangi Bir Sorunda Discord 'dan Ulaş schâwn ✩#2885]**
+Umarım işinize yarar. **[Herhangi Bir Sorunda Discord 'dan Ulaş schâwn wonéy#1247]**
 
 # 1. Server Copy
 **`-` Bu sistem sayesinde sunucu açmanızı daha kolay hale getirebilirsiniz sadece beğendiniz sunucunun veya şablonun bulunduğu sunucuya gerekli komutu yazmanız yeterli.**
